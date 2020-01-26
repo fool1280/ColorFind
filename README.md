@@ -1,2 +1,2 @@
-# TAMUHack2020
+# ColorFind
 Detection dominant color in pictures
